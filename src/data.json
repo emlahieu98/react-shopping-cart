@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "01",
+      "title": "Dress 1",
+      "image": "/images/dre.jpg",
+      "description": "about dress",
+      "price": 19,
+      "availableSizes":["XL", "L"]
+    },
+    {
+      "_id": "02",
+      "title": "Dress 2",
+      "image": "/images/dress2.jpg",
+      "description": "about dress",
+      "price": 30,
+      "availableSizes":["XXL", "L"]
+    },
+    {
+      "_id": "03",
+      "title": "Dress 3",
+      "image": "/images/dre.jpg",
+      "description": "about dress",
+      "price": 20,
+      "availableSizes":["xl", "m"]
+    },
+    {
+      "_id": "04",
+      "title": "Dress 4",
+      "image": "/images/dresses.jpg",
+      "description": "Prefects",
+      "price": 30,
+      "availableSizes":["xxl", "m"]
+    },
+    {
+      "_id": "05",
+      "title": "Dress 5",
+      "image": "/images/dresses.jpg",
+      "description": "About Dress",
+      "price": 30,
+      "availableSizes":["xl", "x"]
+    },
+    {
+      "_id": "06",
+      "title": "Dress 6",
+      "image": "/images/dresses.jpg",
+      "description": "Mast Dress",
+      "price": 30,
+      "availableSizes":["l", "xs"]
+    }
+  ]
+}
