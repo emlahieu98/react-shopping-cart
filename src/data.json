@@ -4,49 +4,49 @@
       "_id": "01",
       "title": "Độc thân không cô đơn",
       "image": "/images/docthan.jpg",
-      "description": "about Book",
+      "description": "Câu truyện về 1 chàng trai cô đơn",
       "price": 5,
-      "availableSizes":["XL", "L"]
+      "availableSizes":["tamli", "tinhcam"]
     },
     {
       "_id": "02",
       "title": "Mẹ thơm một cái",
       "image": "/images/motcai.jpg",
-      "description": "about Book",
+      "description": "Câu truyện về tình cảm gia đình",
       "price": 10,
-      "availableSizes":["XXL", "L"]
+      "availableSizes":["tamli", "tinhcam"]
     },
     {
       "_id": "03",
       "title": "Tôi bị bố bắt cóc",
       "image": "/images/ToibiBo.jpg",
-      "description": "about Book",
+      "description": "Câu truyện về hành trình phiêu lưu",
       "price": 10,
-      "availableSizes":["xl", "m"]
+      "availableSizes":["phieuluu", "tamli"]
     },
     {
       "_id": "04",
       "title": "Tôi thấy hoa vàng trên cỏ xanh",
        "image": "/images/hoavang.jpg",
-      "description": "Prefects",
+      "description": "Câu truyện về tình bạn",
       "price": 30,
-      "availableSizes":["xxl", "m"]
+      "availableSizes":["tinhcam", "phieuluu"]
     },
     {
       "_id": "05",
       "title": "Làm cha làm mẹ làm thầy",
       "image": "/images/lamcha.jpg",
-      "description": "About Book",
+      "description": "Tình cảm gia đình",
       "price": 15,
-      "availableSizes":["xl", "x"]
+      "availableSizes":["tinhcam", "giadinh"]
     },
     {
       "_id": "06",
       "title": "Hoàng tử bé",
       "image": "/images/hoangtu.jpg",
-      "description": "Mast Book",
+      "description": "Phiêu lưu kí",
       "price": 4,
-      "availableSizes":["l", "xs"]
+      "availableSizes":["phieuluu", "giadinh"]
     }
   ]
 }

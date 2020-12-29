@@ -39,13 +39,14 @@ header {
   background-color: #203040;
   color: #ffffff;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 0.5rem;
 }
 header a {
   color: #ffffff;
   text-decoration: none;
+
 }
 main {
   grid-area: main;
@@ -127,9 +128,10 @@ footer {
   padding: 1rem;
   margin: 1rem;
   border-bottom: 0.1rem #c0c0c0 solid;
-}
+} 
 .filter div {
   flex: 1;
+  
 }
 /* Index.css */
 .cart {

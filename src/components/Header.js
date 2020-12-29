@@ -4,7 +4,7 @@ export default class Header extends Component {
   render() {
     return (
       <header>
-        <a href="/"> React Shopping Cart</a>
+        <a href="/"> Book Shopping Cart</a>
       </header>
     );
   }
