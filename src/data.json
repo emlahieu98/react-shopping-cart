@@ -2,50 +2,50 @@
   "products": [
     {
       "_id": "01",
-      "title": "Dress 1",
-      "image": "/images/dre.jpg",
-      "description": "about dress",
-      "price": 19,
+      "title": "Độc thân không cô đơn",
+      "image": "/images/docthan.jpg",
+      "description": "about Book",
+      "price": 5,
       "availableSizes":["XL", "L"]
     },
     {
       "_id": "02",
-      "title": "Dress 2",
-      "image": "/images/dress2.jpg",
-      "description": "about dress",
-      "price": 30,
+      "title": "Mẹ thơm một cái",
+      "image": "/images/motcai.jpg",
+      "description": "about Book",
+      "price": 10,
       "availableSizes":["XXL", "L"]
     },
     {
       "_id": "03",
-      "title": "Dress 3",
-      "image": "/images/dre.jpg",
-      "description": "about dress",
-      "price": 20,
+      "title": "Tôi bị bố bắt cóc",
+      "image": "/images/ToibiBo.jpg",
+      "description": "about Book",
+      "price": 10,
       "availableSizes":["xl", "m"]
     },
     {
       "_id": "04",
-      "title": "Dress 4",
-      "image": "/images/dresses.jpg",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh",
+       "image": "/images/hoavang.jpg",
       "description": "Prefects",
       "price": 30,
       "availableSizes":["xxl", "m"]
     },
     {
       "_id": "05",
-      "title": "Dress 5",
-      "image": "/images/dresses.jpg",
-      "description": "About Dress",
-      "price": 30,
+      "title": "Làm cha làm mẹ làm thầy",
+      "image": "/images/lamcha.jpg",
+      "description": "About Book",
+      "price": 15,
       "availableSizes":["xl", "x"]
     },
     {
       "_id": "06",
-      "title": "Dress 6",
-      "image": "/images/dresses.jpg",
-      "description": "Mast Dress",
-      "price": 30,
+      "title": "Hoàng tử bé",
+      "image": "/images/hoangtu.jpg",
+      "description": "Mast Book",
+      "price": 4,
       "availableSizes":["l", "xs"]
     }
   ]
